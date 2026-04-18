@@ -3,7 +3,7 @@
 ## Descripción
 Implementación de un chat básico utilizando sockets TCP en Python. El servidor recibe mensajes de clientes, los almacena en una base de datos SQLite y responde con una confirmación. 
 
-Trabajo práctico de la materia **Programación de Redes** — IFTS 29, 3er año.
+Práctica Formativa Obligatoria de la materia **Programación de Redes** — IFTS 29, 3er año.
 
 ---
 
